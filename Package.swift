@@ -1,9 +1,9 @@
 import PackageDescription
 
 let package = Package(
-    name: "swiftstarter",
+    name: "swiftstarter" //,
     
-    dependencies: [
-        .Package(url: "https://github.com/IBM-Swift/Kitura-router.git", majorVersion: 0),
-    ]
+    //dependencies: [
+    //    .Package(url: "https://github.com/IBM-Swift/Kitura-router.git", majorVersion: 0),
+    //]
 )
